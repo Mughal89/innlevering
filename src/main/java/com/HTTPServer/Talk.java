@@ -4,6 +4,8 @@ public class Talk {
     private String _title;
     private String _description;
 
+    public int id;
+
     public Talk(String title, String description){
         _title = title;
         _description = description;

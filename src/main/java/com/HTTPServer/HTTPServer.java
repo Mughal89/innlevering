@@ -1,5 +1,6 @@
 package com.HTTPServer;
 
+import javax.sql.DataSource;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -10,17 +11,22 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class HTTPServer {
     private int port;
     private int actualPort;
     private ServerSocket listener;
-    private List<Talk> talks = new ArrayList<>();
+    private static List<Talk> talks = new ArrayList<>();
 
     public HTTPServer(int port){
         this.port = port;
-        this.talks.add(new Talk("Introduction to Java", "An introduction to java."));
-        this.talks.add(new Talk("Introduction to C", "An introduction to C."));
+        talks.add(new Talk("Introduction to Java", "An introduction to java."));
+        talks.add(new Talk("Introduction to C", "An introduction to C."));
+        Talk t = new Talk("Taking the buss", "A talk about why taking the bus sucks.");
+        t.id = 4321;
+        talks.add(t);
     }
 
 
@@ -82,10 +88,55 @@ public class HTTPServer {
     }
 
     public static HTTPResponse HandleRequest(HTTPGetRequest request){
+
+        HTTPResponse response = new HTTPResponse();
+        if(request.Uri().equals("/api/talks")){
+            response.code = "200 OK";
+            response.contentType = "text/csv";
+            response.server = "My Web Server";
+            response.connection = "close";
+            response.body = Utility.toString(talks);
+
+            return response;
+        }
+
+
+        Pattern pattern = Pattern.compile("/api/talks/[0-9]+");
+        Matcher matcher = pattern.matcher(request.Uri());
+        if(matcher.find()){
+            int startIndex = request.Uri().lastIndexOf("/") + 1;
+            int endIndex = request.Uri().length();
+            int length = "/api/talks/".length();
+            String idAsString = request.Uri().substring(startIndex, endIndex);
+
+
+            int id = Integer.parseInt(idAsString);
+
+            System.out.println("Parsed ID = " + id);
+
+            Talk t = null;
+            for(int i=0; i<talks.size(); ++i){
+                System.out.println("Iterating talk with id: " + talks.get(i).id);
+                if(talks.get(i).id == id){
+                    System.out.println("Eureka, found talk.");
+                    response.body = Utility.toString(talks.get(i));
+                    break;
+                }
+            }
+
+            response.code = "200 OK";
+            response.contentType = "text/plain";
+            response.server = "My Web Server";
+            response.connection = "close";
+
+            return response;
+        }
+
+
         return InvalidRequest("Invalid GET");
     }
 
-    public static HTTPResponse HandleRequest(HTTPPostRequest request, InputStream stream) throws IOException{
+    public static HTTPResponse HandleRequest(HTTPPostRequest request, InputStream stream) {
         HTTPResponse response = new HTTPResponse();
         response.headers.put("Location", "/api/talks/3");
         response.contentType = "text/plain";
@@ -128,6 +179,8 @@ public class HTTPServer {
         while(true) {
             try {
                 Socket clientSocket = serverSocket.accept();
+
+
 
                 InputStream input = clientSocket.getInputStream();
                 OutputStream output = clientSocket.getOutputStream();
