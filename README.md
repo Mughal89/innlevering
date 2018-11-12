@@ -78,8 +78,8 @@ UML diagram:
 ### Egenevaluering:
 Jeg er veldig fornøyd med det jeg har klart å få til på den siste uken. Jeg har jobbet alene, da jeg allerede er i fulltidsjobb, og har ikke hatt tid eller mulighet til å være med på forumet og finne meg en gruppe til tide. Jeg har heller ikke hatt mulighet til å evaluere en annen gruppes innlevering, da jeg har sittet med denne oppgaven 24/7 i tillegg til arbeid ifra jobben. Det har vært både hektisk og lærerikt den siste uken. 
 
-Oppgaven mangler error meldinger som f.eks. hvis man taster feil brukernavn, så skal man egentlig få en error. Jeg har heller ikke fått laget noen tester til programmet.
+Oppgaven mangler egendefinerte error meldinger som f.eks. hvis man taster feil brukernavn på innlevering.properties, så skal man egentlig få en error, men det har jeg ikke lagt vekt på. Jeg har heller ikke fått laget noen JUnit-tester til programmet.
 
-Jeg skulle gjerne ha brukt mer tid på faget, og ha jobbet dobbelt som mye, men tiden strakk seg ikke. 
+Jeg skulle gjerne ha brukt mer tid på faget, og ha jobbet dobbelt som mye, men tiden strakk seg ikke da jobben min har tatt hele tida. 
 
 Basert på min besvarelse av oppgave, så tenker jeg at karakter C reflekter besvarelsen.
