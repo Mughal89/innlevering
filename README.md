@@ -24,6 +24,10 @@ Oppgaven antar at databasemodellen ser sånn ut:
 
 ![bilde1](https://user-images.githubusercontent.com/31854673/48369924-2ee60e80-e6b8-11e8-984f-9d70d29fbddd.png)
 
+UML diagram:
+
+![uml](https://user-images.githubusercontent.com/31854673/48370797-a321b180-e6ba-11e8-9128-8aff9526ee3b.png)
+
 
 1.	Start serveren:
 
@@ -61,7 +65,7 @@ Oppgaven antar at databasemodellen ser sånn ut:
     
     o	java -jar client-1.0-SNAPSHOT.jar add -Title «Her skriver du inn tittel» -Description «Her skriver du inn beskrivelse» -Topic «Her skriver du inn emne»
 
-    o	Etter at du har kjørt denne linjen, vil terminalen vise ressurs URL´en til talk
+  • Etter at du har kjørt denne linjen, vil terminalen vise ressurs URL´en til talk
 
   •	For å vise et talk ved å søke via ID
     
