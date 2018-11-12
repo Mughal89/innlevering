@@ -21,6 +21,7 @@ Funksjoner som jeg har med er:
   •	Hente ut en spesifikk talk
 
 Oppgaven antar at databasemodellen ser sånn ut:
+
 ![bilde1](https://user-images.githubusercontent.com/31854673/48369924-2ee60e80-e6b8-11e8-984f-9d70d29fbddd.png)
 
 
