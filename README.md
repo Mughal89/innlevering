@@ -76,6 +76,10 @@ UML diagram:
     o	java -jar client-1.0-SNAPSHOT.jar update -id 1 -title «Ny tittel» -description «ny beskrivelse» -topic «ny emne»
 
 ### Egenevaluering:
-Jeg er veldig fornøyd med det jeg har klart å få til på den siste uken. Jeg har jobbet alene, da jeg allerede er i fulltidsjobb, og har ikke hatt mulighet til å være med på forumet og finne meg en gruppe til tide. Jeg har heller ikke hatt mulighet til å evaluere en annen gruppes innlevering, da jeg har sittet med denne oppgaven 24/7 i tillegg til arbeid ifra jobben. Det har vært både hektisk og lærerikt den siste uken. 
+Jeg er veldig fornøyd med det jeg har klart å få til på den siste uken. Jeg har jobbet alene, da jeg allerede er i fulltidsjobb, og har ikke hatt tid eller mulighet til å være med på forumet og finne meg en gruppe til tide. Jeg har heller ikke hatt mulighet til å evaluere en annen gruppes innlevering, da jeg har sittet med denne oppgaven 24/7 i tillegg til arbeid ifra jobben. Det har vært både hektisk og lærerikt den siste uken. 
 
-Jeg har fått til å 
+Oppgaven mangler error meldinger som f.eks. hvis man taster feil brukernavn, så skal man egentlig få en error. Jeg har heller ikke fått laget noen tester til programmet.
+
+Jeg skulle gjerne ha brukt mer tid på faget, og ha jobbet dobbelt som mye, men tiden strakk seg ikke. 
+
+Basert på min besvarelse av oppgave, så tenker jeg at karakter C reflekter besvarelsen.
