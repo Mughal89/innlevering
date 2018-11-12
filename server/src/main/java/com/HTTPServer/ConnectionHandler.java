@@ -29,7 +29,7 @@ public class ConnectionHandler {
         String sql = "insert into " + tableName + " (title, topic, description) "+ "values (?, ?, ?)";
         try (PreparedStatement statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)){
             statement.setString(1, t.title);
-            statement.setString(2, t.description);
+            statement.setString(2, t.topic);
             statement.setString(3, t.description);
             statement.executeUpdate();
             System.out.println("Talk created!");
@@ -44,8 +44,8 @@ public class ConnectionHandler {
     public void UpdateTalk(Talk newTalk) throws SQLException {
         String sql = "UPDATE "+tableName+" SET title = ?, topic = ?, description = ? WHERE talks.id = ?";
         try(PreparedStatement statement = connection.prepareStatement(sql)){
-            statement.setString(1, newTalk.title);
-            statement.setString(2, newTalk.topic);
+            statement.setString(1, newTalk.topic);
+            statement.setString(2, newTalk.title);
             statement.setString(3, newTalk.description);
             statement.setInt(4, newTalk.id);
 
@@ -84,8 +84,8 @@ public class ConnectionHandler {
             statement.setInt(1,id);
             try(ResultSet rs = statement.executeQuery()){
                 while(rs.next()){
-                    String title = rs.getString(2);
-                    String topic = rs.getString(3);
+                    String topic = rs.getString(2);
+                    String title = rs.getString(3);
                     String description = rs.getString(4);
                     t= new Talk();
                     t.title = title;
