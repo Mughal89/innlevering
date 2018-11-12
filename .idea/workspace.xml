@@ -2,50 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="083522c3-5a64-4e39-997a-01590929af98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/httpclient/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/HTTPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/HTTPPostRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/HTTPQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/HTTPRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/HTTPResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/src/main/java/com/httpclient/RequestType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/HTTPServer/ConnectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/com/HTTPServer/TalksDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/resources/innlevering.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/event.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPGetRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPPostRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPPutRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/HTTPVerb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/Talk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/Utility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/main/java/com/HTTPServer/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpclient/src/test/java/HTTPServerTests/HTTPServerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPGetRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPPostRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPPutRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/HTTPVerb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/Talk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/HTTPServer/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/server-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient/client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient/target/client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient/target/client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/original-server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/original-server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/server-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,19 +24,24 @@
     <session id="686715926">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering" value="3" />
+          <entry key="JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering/httpclient" value="4" />
+          <entry key="JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering/httpclient/src/main/java/com/httpclient" value="1" />
+          <entry key="MODULES/mdl-innlevering" value="2" />
           <entry key="iml" value="2" />
           <entry key="java" value="31" />
           <entry key="md" value="2" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="5" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -80,46 +50,28 @@
           <entry key="JAVA" value="31" />
           <entry key="Markdown" value="2" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="5" />
+          <entry key="UML" value="10" />
+          <entry key="XML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1" />
           <entry key="properties" value="10" />
-          <entry key="xml" value="40" />
+          <entry key="xml" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1" />
           <entry key="Properties" value="10" />
-          <entry key="XML" value="40" />
+          <entry key="XML" value="44" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/httpclient/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="25" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-297">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,8 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,30 +142,22 @@
               <item name="innlevering" type="462c0819:PsiDirectoryNode" />
               <item name="httpclient" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="innlevering" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="innlevering" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542046150899" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542049683545" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,17 +182,27 @@
       <option name="presentableId" value="Default" />
       <updated>1542043730545</updated>
       <workItem from="1542043735646" duration="922000" />
-      <workItem from="1542044714023" duration="1138000" />
+      <workItem from="1542044714023" duration="2594000" />
+      <workItem from="1542051969820" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2060000" />
+    <option name="totallyTimeSpent" value="3556000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24481075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,11 +215,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,20 +406,218 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient/client.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/httpclient/client.iml" />
+    <entry file="file://$PROJECT_DIR$/server/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" />
+    <entry file="uml://MODULES/mdl-innlevering">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-innlevering</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="77.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/httpclient/pom.xml">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="-6702" />
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering/httpclient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/httpclient</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="619.0" y="303.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering/httpclient/src/main/java/com/httpclient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/httpclient/src/main/java/com/httpclient</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="619.0" y="303.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/dependency-reduced-pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/usmanmughal/Documents/GitHub/innlevering">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/ConnectionHandler.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/ConnectionHandler.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPGetRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPGetRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPPostRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPPostRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPPutRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPPutRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPRequest.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPResponse.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPResponse.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPServer.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPServer.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/HTTPVerb.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/HTTPVerb.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/Talk.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/Talk.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/TalksDatabase.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/TalksDatabase.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/Utility.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/Utility.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/allclasses-index.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/allclasses.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/allpackages-index.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/constant-values.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/deprecated-list.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/help-doc.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/index-all.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jquery-3.3.1.js</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jquery-migrate-3.0.1.js#jquery#416;</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jquery-ui.css</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jquery-ui.js</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jszip-utils/dist/jszip-utils.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jszip/dist/jszip.js#$export#149991;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#$task#150026;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ArrayReader#63294;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#CompressedObject#134693;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ConvertWorker#78870;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#Crc32Probe#35223;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#DataLengthProbe#4903;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#DataReader#56194;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#DataWorker#4746;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#GZheader#170297;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#GenericWorker#11219;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#IE8_DOM_DEFINE#145962;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#NodeBufferReader#64184;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#NodejsStreamInputAdapter#43310;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#NodejsStreamOutputAdapter#79184;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#Readable#39966;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#StreamHelper#43043;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#StringReader#64138;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#Uint8ArrayReader#61597;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ZStream#158984;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ZipEntries#35181;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ZipEntry#111211;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ZipFileWorker#31556;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ZipObject#43188;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#_cof#148053;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#_descriptors#144296;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#_dom-create#144829;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#_fails#140736;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#aFunction#140147;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#adler32#273160;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#anObject#145917;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#assign#158390;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#base64#95318;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#c#170156;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#cel#147012;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#compressions#31509;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#constants#158517;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#core#141313;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#crc32#273202;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#crc32fn#123267;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#createDesc#144237;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#ctx#146879;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#dP#144196;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#defaults#43096;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#deflate#158433;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#document#140963;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#external#95460;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#flate#8080;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#generate#43228;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#global#147062;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#hide#141382;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#html#146968;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#immediate#152325;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#inflate#158475;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#inflate_fast#273242;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#inflate_table#273284;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#invoke#146922;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#isObject#139589;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#lie#10828;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#load#34501;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#msg#170204;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#nodejsUtils#87126;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#object#34452;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#pako#11159;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#readerFor#111098;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#setImmediate#95396;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#sig#111177;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#signature#13633;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#stream#56094;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#strings#158890;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#support#111279;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#toPrimitive#146012;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#trees#196842;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#utf8#134663;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#utils#1251;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#web.immediate#139229;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#zlib_deflate#158798;/Users/usmanmughal/Documents/GitHub/innlevering/server/target/site/apidocs/jquery/jszip/dist/jszip.js#zlib_inflate#170017;</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/jquery/jszip/dist/jszip.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/main.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/class-use/main.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/overview-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/package-summary.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/package-tree.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/com/HTTPServer/package-use.html</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/script.js</node>
+            <node x="" y="">$PROJECT_DIR$/server/target/site/apidocs/stylesheet.css</node>
+            <node x="" y="">ArrayReader</node>
+            <node x="" y="">ConvertWorker</node>
+            <node x="" y="">Crc32Probe</node>
+            <node x="" y="">DataLengthProbe</node>
+            <node x="" y="">DataReader</node>
+            <node x="" y="">DataWorker</node>
+            <node x="" y="">GenericWorker</node>
+            <node x="" y="">NodeBufferReader</node>
+            <node x="" y="">NodejsStreamInputAdapter</node>
+            <node x="" y="">NodejsStreamOutputAdapter</node>
+            <node x="" y="">StreamHelper</node>
+            <node x="" y="">StringReader</node>
+            <node x="" y="">Uint8ArrayReader</node>
+            <node x="" y="">ZipFileWorker</node>
+            <node x="" y="">_a-function</node>
+            <node x="" y="">_an-object</node>
+            <node x="" y="">_cof</node>
+            <node x="" y="">setImmediate;</node>
+            <node x="" y="">_ctx</node>
+            <node x="" y="">_descriptors</node>
+            <node x="" y="">_dom-create</node>
+            <node x="" y="">_export</node>
+            <node x="" y="">_fails</node>
+            <node x="" y="">document;</node>
+            <node x="" y="">_hide</node>
+            <node x="" y="">_html</node>
+            <node x="" y="">_ie8-dom-define</node>
+            <node x="" y="">_invoke</node>
+            <node x="" y="">_is-object</node>
+            <node x="" y="">_object-dp</node>
+            <node x="" y="">_property-desc</node>
+            <node x="" y="">_task</node>
+            <node x="" y="">_to-primitive</node>
+            <node x="" y="">adler32</node>
+            <node x="" y="">base64</node>
+            <node x="" y="">assign;</node>
+            <node x="" y="">compressedObject</node>
+            <node x="" y="">compressions</node>
+            <node x="" y="">constants</node>
+            <node x="" y="">crc32</node>
+            <node x="" y="">defaults</node>
+            <node x="" y="">deflate</node>
+            <node x="" y="">external</node>
+            <node x="" y="">flate</node>
+            <node x="" y="">generate</node>
+            <node x="" y="">gzheader</node>
+            <node x="" y="">immediate</node>
+            <node x="" y="">inffast</node>
+            <node x="" y="">inflate</node>
+            <node x="" y="">inftrees</node>
+            <node x="" y="">jquery</node>
+            <node x="" y="">lie</node>
+            <node x="" y="">load</node>
+            <node x="" y="">messages</node>
+            <node x="" y="">nodejsUtils</node>
+            <node x="" y="">object</node>
+            <node x="" y="">pako</node>
+            <node x="" y="">Readable;</node>
+            <node x="" y="">readerFor</node>
+            <node x="" y="">set-immediate</node>
+            <node x="" y="">signature</node>
+            <node x="" y="">stream</node>
+            <node x="" y="">strings</node>
+            <node x="" y="">support</node>
+            <node x="" y="">trees</node>
+            <node x="" y="">utf8</node>
+            <node x="" y="">utils</node>
+            <node x="" y="">web.immediate</node>
+            <node x="" y="">zipEntries</node>
+            <node x="" y="">zipEntry</node>
+            <node x="" y="">zipObject</node>
+            <node x="" y="">zstream</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5275951889464802" x="3069.0" y="564.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
