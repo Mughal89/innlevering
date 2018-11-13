@@ -7,7 +7,7 @@
 ### Hvordan oppgaven er bygget?
 I denne videoen vil jeg forklare, og vise hvordan oppgaven er bygget, hvordan jeg kjører programmet med ulike spørringer og hvordan jeg tester.
 
-LINK ->
+LINK -> https://youtu.be/0ojriFGTREc
 
 ### Hvordan teste programmet?
 Funksjoner som jeg har med er:
@@ -78,7 +78,7 @@ UML diagram:
 ### Egenevaluering:
 Jeg er veldig fornøyd med det jeg har klart å få til på den siste uken. Jeg har jobbet alene, da jeg allerede er i fulltidsjobb, og har ikke hatt tid eller mulighet til å være med på forumet og finne meg en gruppe til tide. Jeg har heller ikke hatt mulighet til å evaluere en annen gruppes innlevering, da jeg har sittet med denne oppgaven 24/7 i tillegg til arbeid ifra jobben. Det har vært både hektisk og lærerikt den siste uken. 
 
-Oppgaven mangler egendefinerte error meldinger som f.eks. hvis man taster feil brukernavn på innlevering.properties, så skal man egentlig få en error, men det har jeg ikke lagt vekt på. Jeg har heller ikke fått laget noen JUnit-tester til programmet.
+Jeg har ikke fått laget noen JUnit-tester til programmet og heller ikke fått gitt tilbakemelding til en annen gruppe/innlevering.
 
 Jeg skulle gjerne ha brukt mer tid på faget, og ha jobbet dobbelt som mye, men tiden strakk seg ikke da jobben min har tatt hele tida. 
 
